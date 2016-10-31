@@ -1,0 +1,16 @@
+body{
+    margin: 30px;
+}
+section {
+    float: left;
+    width: 31%;
+    padding: 1%;
+}
+.green{
+    background-color: chartreuse;
+}
+
+
+img {
+    width: 100%;
+}
