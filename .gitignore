@@ -14,5 +14,4 @@ results
 tmp
 
 node_modules
-src/client/uploads/*
 .idea
